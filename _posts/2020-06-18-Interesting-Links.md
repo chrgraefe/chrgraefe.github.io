@@ -36,6 +36,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [GitHub][88] Closed XML - Excel Library
 * [GitHub][89] SSH.NET - Secure Shell Library
 * [GitHub][93] SharpGrip FileSystem is a file system abstraction supporting multiple adapters
+* [GitHub][94] YARP - A toolkit for developing high-performance HTTP reverse proxy applications
 
 ## no Category
 
@@ -60,3 +61,4 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [91]: https://github.com/Nordes/IdentityServer4.LdapExtension
  [92]: https://github.com/skoruba/IdentityServer4.Admin
  [93]: https://github.com/SharpGrip/FileSystem
+ [94]: https://github.com/microsoft/reverse-proxy
