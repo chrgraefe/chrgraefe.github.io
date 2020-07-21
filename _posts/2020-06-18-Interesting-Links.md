@@ -37,6 +37,8 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [GitHub][89] SSH.NET - Secure Shell Library
 * [GitHub][93] SharpGrip FileSystem is a file system abstraction supporting multiple adapters
 * [GitHub][94] YARP - A toolkit for developing high-performance HTTP reverse proxy applications
+* [GitHub][95] Npgsql - .NET Access to PostgreSQL [Home][96]
+* [GitHub][97] Blazorade - component library designed for Blazor [Home][98]
 
 ## no Category
 
@@ -62,3 +64,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [92]: https://github.com/skoruba/IdentityServer4.Admin
  [93]: https://github.com/SharpGrip/FileSystem
  [94]: https://github.com/microsoft/reverse-proxy
+ [95]: https://github.com/npgsql/npgsql
+ [96]: https://www.npgsql.org/
+ [97]: https://github.com/Blazorade/Blazorade-Bootstrap
+ [98]: https://www.blazorade.com/
