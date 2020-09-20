@@ -16,12 +16,12 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [GitHub][57] NTFSSecurity
 * [GitHub][86] ImportExcel
 * [GitHub][87] Posh-SSH
+* [GitHub][99] LdapTools
 
 ## IdentityServer4
 
 * [GitHub][90] IdentityServer4
 * [GitHub][91] IdentityServer4 Ldap Extension (OpenLdap or ActiveDirectory)
-* [GitHub][92] The administration for the IdentityServer4 and Asp.Net Core Identity
 
 ## General purpose tools
 
@@ -35,10 +35,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [GitHub][85] Blazor Table - Table Control for Blazor
 * [GitHub][88] Closed XML - Excel Library
 * [GitHub][89] SSH.NET - Secure Shell Library
-* [GitHub][93] SharpGrip FileSystem is a file system abstraction supporting multiple adapters
-* [GitHub][94] YARP - A toolkit for developing high-performance HTTP reverse proxy applications
 * [GitHub][95] Npgsql - .NET Access to PostgreSQL [Home][96]
-* [GitHub][97] Blazorade - component library designed for Blazor [Home][98]
 
 ## no Category
 
@@ -61,10 +58,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [89]: https://github.com/sshnet/SSH.NET
  [90]: https://github.com/IdentityServer/IdentityServer4
  [91]: https://github.com/Nordes/IdentityServer4.LdapExtension
- [92]: https://github.com/skoruba/IdentityServer4.Admin
- [93]: https://github.com/SharpGrip/FileSystem
- [94]: https://github.com/microsoft/reverse-proxy
  [95]: https://github.com/npgsql/npgsql
  [96]: https://www.npgsql.org/
- [97]: https://github.com/Blazorade/Blazorade-Bootstrap
- [98]: https://www.blazorade.com/
+ [99]: https://github.com/FriedrichWeinmann/LdapTools
