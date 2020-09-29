@@ -35,7 +35,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [GitHub][85] Blazor Table - Table Control for Blazor
 * [GitHub][88] Closed XML - Excel Library
 * [GitHub][89] SSH.NET - Secure Shell Library
-* [GitHub][95] Npgsql - .NET Access to PostgreSQL [Home][96]
 
 ## no Category
 
@@ -46,7 +45,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [4]: https://github.com/PowerShell/openssh-portable
  [14]: https://github.com/dotps1/WinSCP
  [15]: https://github.com/greenshot/greenshot
- [53]: https://www.energy-charts.de/energy_pie_de.htm
+ [53]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
  [54]: http://comparecloud.in/
  [56]: https://github.com/StackExchange/Dapper
  [57]: https://github.com/raandree/NTFSSecurity
@@ -58,6 +57,4 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [89]: https://github.com/sshnet/SSH.NET
  [90]: https://github.com/IdentityServer/IdentityServer4
  [91]: https://github.com/Nordes/IdentityServer4.LdapExtension
- [95]: https://github.com/npgsql/npgsql
- [96]: https://www.npgsql.org/
  [99]: https://github.com/FriedrichWeinmann/LdapTools
