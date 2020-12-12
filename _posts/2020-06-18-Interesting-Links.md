@@ -27,6 +27,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 
 * [GitHub][4] OpenSSH-portable
 * [GitHub][15] Greenshot
+* [Github][100] HttpRepl
 
 ## C# / ASP.NET / MVC / Blazor / WCF
 
@@ -35,6 +36,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [GitHub][85] Blazor Table - Table Control for Blazor
 * [GitHub][88] Closed XML - Excel Library
 * [GitHub][89] SSH.NET - Secure Shell Library
+* [Github][101] CsvHelper - reading and writing CSV files
 
 ## no Category
 
@@ -58,3 +60,5 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [90]: https://github.com/IdentityServer/IdentityServer4
  [91]: https://github.com/Nordes/IdentityServer4.LdapExtension
  [99]: https://github.com/FriedrichWeinmann/LdapTools
+[100]: https://github.com/dotnet/HttpRepl
+[101]: https://github.com/JoshClose/CsvHelper
