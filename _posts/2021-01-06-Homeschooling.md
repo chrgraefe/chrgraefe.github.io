@@ -25,7 +25,7 @@ categories: Homeschooling
 
 * [BigBlueButton][3] BigBlueButton
 
-### 2a - Kundeklasse
+### 2a - Hundeklasse
 
 * [BigBlueButton][4] BigBlueButton
 
