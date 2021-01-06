@@ -15,11 +15,13 @@ categories: Homeschooling
 
 * [BigBlueButton][1]
 * [Schulbox Download/Inbox][5]
+* [Schulbox Upload/Outbox][9]
 
 ### 4a - Eulenklasse
 
 * [BigBlueButton][2]
 * [Schulbox Download/Inbox][6]
+* [Schulbox Upload/Outbox][10]
 
 ## Constantin
 
@@ -27,11 +29,13 @@ categories: Homeschooling
 
 * [BigBlueButton][3]
 * [Schulbox Download/Inbox][7]
+* [Schulbox Upload/Outbox][11]
 
 ### 2a - Hundeklasse
 
 * [BigBlueButton][4]
 * [Schulbox Download/Inbox][8]
+* [Schulbox Upload/Outbox][12]
 
  [1]: http://3c.halasemia.de
  [2]: http://4a.halasemia.de
@@ -41,3 +45,8 @@ categories: Homeschooling
  [6]: https://schulbox.bildung-rp.de/index.php/s/9rt3rNCe88G9nwL
  [7]: https://schulbox.bildung-rp.de/index.php/s/CNbyPzyo6fiSqza
  [8]: https://schulbox.bildung-rp.de/index.php/s/4AkMpEDZHJqmyK8
+ [9]: 
+ [10]: https://schulbox.bildung-rp.de/index.php/s/bLZfYGTbCyzQKXi
+ [11]: 
+ [12]: https://schulbox.bildung-rp.de/index.php/s/XtRyeep4G9nCnX2
+
