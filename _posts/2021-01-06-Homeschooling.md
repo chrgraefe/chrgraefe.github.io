@@ -28,7 +28,7 @@ categories: Homeschooling
 ### 1c - Pandaklasse
 
 * [BigBlueButton][3]
-* [Schulbox Download/Inbox][7]
+* [Schulbox Download/Inbox NICHT AKTIV][7]
 * [Schulbox Upload/Outbox][11]
 
 ### 2a - Hundeklasse
