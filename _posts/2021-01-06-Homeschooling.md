@@ -15,7 +15,7 @@ categories: Homeschooling
 
 * [BigBlueButton][1]
 * [Schulbox Download/Inbox][5]
-* [Schulbox Upload/Outbox][9] *Upload im Format: VincentGraefe_Mathe_&lt;JJJJMMTT&gt;*
+* [Schulbox Upload/Outbox (persönlich)][9] *Upload im Format: VincentGraefe_Mathe_&lt;JJJJMMTT&gt;*
 
 ### 4a - Eulenklasse
 
@@ -45,7 +45,7 @@ categories: Homeschooling
   [6]: https://schulbox.bildung-rp.de/index.php/s/9rt3rNCe88G9nwL
   [7]: https://schulbox.bildung-rp.de/index.php/s/CNbyPzyo6fiSqza
   [8]: https://schulbox.bildung-rp.de/index.php/s/4AkMpEDZHJqmyK8
-  [9]: https://schulbox.bildung-rp.de/index.php/s/6bMxEXgW8wd9WEQ
+  [9]: https://schulbox.bildung-rp.de/index.php/s/t4eRX2t7tDAcRj6
  [10]: https://schulbox.bildung-rp.de/index.php/s/bLZfYGTbCyzQKXi
  [11]: https://schulbox.bildung-rp.de
  [12]: https://schulbox.bildung-rp.de/index.php/s/XtRyeep4G9nCnX2
