@@ -14,13 +14,13 @@ categories: Homeschooling
 ### 3c - Affenklasse
 
 * [BigBlueButton][1]
-* [Schulbox Download/Inbox][5]
+* [Schulbox Download/Inbox][5] Upload im Format: VincentGraefe_Mathe_&lt;JJJJMMTT&gt;
 * [Schulbox Upload/Outbox][9]
 
 ### 4a - Eulenklasse
 
 * [BigBlueButton][2]
-* [Schulbox Download/Inbox][6]
+* [Schulbox Download/Inbox][6] Upload im Format: VincentGraefe_Deutsch_&lt;JJJJMMTT&gt;
 * [Schulbox Upload/Outbox (persönlich)][10]
 
 ## Constantin
@@ -28,13 +28,13 @@ categories: Homeschooling
 ### 1c - Pandaklasse
 
 * [BigBlueButton][3]
-* [Schulbox Download/Inbox][7]
+* [Schulbox Download/Inbox][7] Upload im Format: ConstantinGraefe_&lt;FACH&gt;_&lt;JJJJMMTT&gt;
 * [Schulbox Upload/Outbox  NICHT AKTIV][11]
 
 ### 2a - Hundeklasse
 
 * [BigBlueButton][4]
-* [Schulbox Download/Inbox (persönlich)][8]
+* [Schulbox Download/Inbox (persönlich)][8] Upload im Format: ConstantinGraefe_&lt;FACH&gt;_&lt;JJJJMMTT&gt;
 * [Schulbox Upload/Outbox][12]
 
   [1]: http://3c.halasemia.de
