@@ -14,28 +14,28 @@ categories: Homeschooling
 ### 3c - Affenklasse
 
 * [BigBlueButton][1]
-* [Schulbox Download/Inbox][5] *Upload im Format: VincentGraefe_Mathe_&lt;JJJJMMTT&gt;*
-* [Schulbox Upload/Outbox][9]
+* [Schulbox Download/Inbox][5]
+* [Schulbox Upload/Outbox][9] *Upload im Format: VincentGraefe_Mathe_&lt;JJJJMMTT&gt;*
 
 ### 4a - Eulenklasse
 
 * [BigBlueButton][2]
-* [Schulbox Download/Inbox][6] *Upload im Format: VincentGraefe_Deutsch_&lt;JJJJMMTT&gt;*
-* [Schulbox Upload/Outbox (persönlich)][10]
+* [Schulbox Download/Inbox][6]
+* [Schulbox Upload/Outbox (persönlich)][10] *Upload im Format: VincentGraefe_Deutsch_&lt;JJJJMMTT&gt;*
 
 ## Constantin
 
 ### 1c - Pandaklasse
 
 * [BigBlueButton][3]
-* [Schulbox Download/Inbox][7] *Upload im Format: ConstantinGraefe_&lt;FACH&gt;_&lt;JJJJMMTT&gt;*
-* [Schulbox Upload/Outbox  NICHT AKTIV][11]
+* [Schulbox Download/Inbox][7]
+* [Schulbox Upload/Outbox NICHT AKTIV][11] *Upload im Format: ConstantinGraefe_&lt;FACH&gt;_&lt;JJJJMMTT&gt;*
 
 ### 2a - Hundeklasse
 
 * [BigBlueButton][4]
-* [Schulbox Download/Inbox (persönlich)][8] *Upload im Format: ConstantinGraefe_&lt;FACH&gt;_&lt;JJJJMMTT&gt;*
-* [Schulbox Upload/Outbox][12]
+* [Schulbox Download/Inbox][8]
+* [Schulbox Upload/Outbox (persönlich)][12] *Upload im Format: ConstantinGraefe_&lt;FACH&gt;_&lt;JJJJMMTT&gt;*
 
   [1]: http://3c.halasemia.de
   [2]: http://4a.halasemia.de
