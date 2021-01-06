@@ -29,7 +29,7 @@ categories: Homeschooling
 
 * [BigBlueButton][4] BigBlueButton
 
- [1]: https://3c.halasemia.de
- [2]: https://4a.halasemia.de
- [3]: https://1c.halasemia.de
- [4]: https://2a.halasemia.de
+ [1]: http://3c.halasemia.de
+ [2]: http://4a.halasemia.de
+ [3]: http://1c.halasemia.de
+ [4]: http://2a.halasemia.de
