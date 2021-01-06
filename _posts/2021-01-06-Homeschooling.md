@@ -21,20 +21,20 @@ categories: Homeschooling
 
 * [BigBlueButton][2]
 * [Schulbox Download/Inbox][6]
-* [Schulbox Upload/Outbox][10]
+* [Schulbox Upload/Outbox (persönlich)][10]
 
 ## Constantin
 
 ### 1c - Pandaklasse
 
 * [BigBlueButton][3]
-* [Schulbox Download/Inbox NICHT AKTIV][7]
-* [Schulbox Upload/Outbox][11]
+* [Schulbox Download/Inbox][7]
+* [Schulbox Upload/Outbox  NICHT AKTIV][11]
 
 ### 2a - Hundeklasse
 
 * [BigBlueButton][4]
-* [Schulbox Download/Inbox][8]
+* [Schulbox Download/Inbox (persönlich)][8]
 * [Schulbox Upload/Outbox][12]
 
   [1]: http://3c.halasemia.de
