@@ -13,21 +13,21 @@ categories: Homeschooling
 
 ### 3c - Affenklasse
 
-* [BigBlueButton][1] BigBlueButton
+* [BigBlueButton][1]
 
 ### 4a - Eulenklasse
 
-* [BigBlueButton][2] BigBlueButton
+* [BigBlueButton][2]
 
 ## Constantin
 
 ### 1c - Pandaklasse
 
-* [BigBlueButton][3] BigBlueButton
+* [BigBlueButton][3]
 
 ### 2a - Hundeklasse
 
-* [BigBlueButton][4] BigBlueButton
+* [BigBlueButton][4]
 
  [1]: http://3c.halasemia.de
  [2]: http://4a.halasemia.de
