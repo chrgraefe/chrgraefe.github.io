@@ -41,7 +41,7 @@ categories: Homeschooling
   [2]: http://4a.halasemia.de
   [3]: http://1c.halasemia.de
   [4]: https://bbb-schulen.rlp.net/b/239-rfx-5jh-pnk
-  [5]: https://schulbox.bildung-rp.de/index.php/s/t4eRX2t7tDAcRj6
+  [5]: https://schulbox.bildung-rp.de/index.php/s/kbf8qkA3o7y6d2c
   [6]: https://schulbox.bildung-rp.de/index.php/s/9rt3rNCe88G9nwL
   [7]: https://schulbox.bildung-rp.de/index.php/s/CNbyPzyo6fiSqza
   [8]: https://schulbox.bildung-rp.de/index.php/s/4AkMpEDZHJqmyK8
