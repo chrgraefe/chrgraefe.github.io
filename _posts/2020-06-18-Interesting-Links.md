@@ -37,6 +37,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [GitHub][88] Closed XML - Excel Library
 * [GitHub][89] SSH.NET - Secure Shell Library
 * [Github][101] CsvHelper - reading and writing CSV files
+* [Github][102] Radzen - Radzen Blazor components
 
 ## no Category
 
@@ -62,3 +63,4 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [99]: https://github.com/FriedrichWeinmann/LdapTools
 [100]: https://github.com/dotnet/HttpRepl
 [101]: https://github.com/JoshClose/CsvHelper
+[102]: https://github.com/radzenhq/radzen-blazor
