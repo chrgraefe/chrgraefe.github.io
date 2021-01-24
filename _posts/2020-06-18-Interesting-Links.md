@@ -18,6 +18,10 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [GitHub][87] Posh-SSH
 * [GitHub][99] LdapTools
 
+## PostgreSQL
+
+* [GitHub][103] [Npgsql][104]
+
 ## IdentityServer4
 
 * [GitHub][90] IdentityServer4
@@ -64,3 +68,5 @@ categories: C# ASP.NET SQLSERVER OpenSource
 [100]: https://github.com/dotnet/HttpRepl
 [101]: https://github.com/JoshClose/CsvHelper
 [102]: https://github.com/radzenhq/radzen-blazor
+[103]: https://github.com/npgsql/npgsql
+[104]: https://www.npgsql.org/
