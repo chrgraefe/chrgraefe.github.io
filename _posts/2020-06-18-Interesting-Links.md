@@ -16,11 +16,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [GitHub][57] NTFSSecurity
 * [GitHub][86] ImportExcel
 * [GitHub][87] Posh-SSH
-* [GitHub][99] LdapTools
-
-## PostgreSQL
-
-* [GitHub][103] [Npgsql][104]
 
 ## IdentityServer4
 
@@ -31,7 +26,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
 
 * [GitHub][4] OpenSSH-portable
 * [GitHub][15] Greenshot
-* [Github][100] HttpRepl
 
 ## C# / ASP.NET / MVC / Blazor / WCF
 
@@ -64,9 +58,5 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [89]: https://github.com/sshnet/SSH.NET
  [90]: https://github.com/IdentityServer/IdentityServer4
  [91]: https://github.com/Nordes/IdentityServer4.LdapExtension
- [99]: https://github.com/FriedrichWeinmann/LdapTools
-[100]: https://github.com/dotnet/HttpRepl
 [101]: https://github.com/JoshClose/CsvHelper
 [102]: https://github.com/radzenhq/radzen-blazor
-[103]: https://github.com/npgsql/npgsql
-[104]: https://www.npgsql.org/
