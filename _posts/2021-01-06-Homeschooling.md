@@ -25,11 +25,13 @@ categories: Homeschooling
 
 ## Constantin
 
+<!-- 
 ### 1c - Pandaklasse
 
 * [BigBlueButton][3]
 * [Schulbox Download/Inbox][7]
-* [Schulbox Upload/Outbox NICHT AKTIV][11] *Upload im Format: ConstantinGraefe_&lt;FACH&gt;_&lt;JJJJMMTT&gt;*
+* [Schulbox Upload/Outbox NICHT AKTIV][11] *Upload im Format: ConstantinGraefe_&lt;FACH&gt;_&lt;JJJJMMTT&gt;* 
+-->
 
 ### 2a - Hundeklasse
 
