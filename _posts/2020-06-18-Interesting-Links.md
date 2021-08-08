@@ -34,6 +34,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [GitHub][85] Blazor Table - Table Control for Blazor
 * [GitHub][89] SSH.NET - Secure Shell Library
 * [Github][102] Radzen - Radzen Blazor components
+* [Guthub][103] ExcelMapper - A library to map POCO objects to Excel files.
 
 ## no Category
 
@@ -56,3 +57,4 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [90]: https://github.com/IdentityServer/IdentityServer4
  [91]: https://github.com/Nordes/IdentityServer4.LdapExtension
 [102]: https://github.com/radzenhq/radzen-blazor
+[103]: https://github.com/mganss/ExcelMapper
