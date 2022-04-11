@@ -12,32 +12,33 @@ categories: C# ASP.NET SQLSERVER OpenSource
 ## PowerShell
 
 * [GitHub][1] dbatools
-* [GitHub][57] NTFSSecurity
-* [GitHub][86] ImportExcel
+* [GitHub][2] NTFSSecurity
+* [GitHub][3] ImportExcel
 
 ## General purpose tools
 
-* [GitHub][15] Greenshot
+* [GitHub][4] Greenshot
 
 ## C# / ASP.NET / MVC / Blazor / WCF
 
-* [GitHub][56] Dapper - light ORM mapper
-* [GitHub][79] SoapCore - .NET Core implementation of the WCF
-* [GitHub][85] Blazor Table - Table Control for Blazor
-* [Github][102] Radzen - Radzen Blazor components
+* [GitHub][5] SoapCore - .NET Core implementation of the WCF
+* [Github][6] Radzen - Radzen Blazor components
+* [Github][7] NPOI - Execel import/export library
 
 ## no Category
 
-* [Link][53] Energy production statistics of Germany
-* [Link][54] Comparison of global cloud provider
+* [Link][8] Energy production statistics of Germany
+* [Link][9] Comparison of global cloud provider
 
  [1]: https://github.com/sqlcollaborative/dbatools
- [15]: https://github.com/greenshot/greenshot
- [53]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
- [54]: http://comparecloud.in/
- [56]: https://github.com/StackExchange/Dapper
- [57]: https://github.com/raandree/NTFSSecurity
- [79]: https://github.com/DigDes/SoapCore
- [85]: https://github.com/IvanJosipovic/BlazorTable
- [86]: https://github.com/dfinke/ImportExcel
-[102]: https://github.com/radzenhq/radzen-blazor
+ [2]: https://github.com/raandree/NTFSSecurity
+ [3]: https://github.com/dfinke/ImportExcel
+ 
+ [4]: https://github.com/greenshot/greenshot
+
+ [5]: https://github.com/DigDes/SoapCore
+ [6]: https://github.com/radzenhq/radzen-blazor
+ [7]: https://github.com/nissl-lab/npoi
+
+ [8]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
+ [9]: http://comparecloud.in/
