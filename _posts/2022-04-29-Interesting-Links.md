@@ -12,7 +12,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
 ## PowerShell
 
 * [GitHub][1] dbatools
-* [GitHub][2] NTFSSecurity
 * [GitHub][3] ImportExcel
 
 ## General purpose tools
@@ -32,7 +31,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][9] Comparison of global cloud provider
 
  [1]: https://github.com/sqlcollaborative/dbatools
- [2]: https://github.com/raandree/NTFSSecurity
  [3]: https://github.com/dfinke/ImportExcel
  
  [4]: https://github.com/greenshot/greenshot
