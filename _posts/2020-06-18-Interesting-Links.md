@@ -21,6 +21,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 ## C# / ASP.NET / MVC / Blazor / WCF
 
 * [GitHub][5] SoapCore - .NET Core implementation of the WCF
+* [Github][12] CoreWCF - SOAP Services on .NET Core
 * [Github][6] Radzen - Radzen Blazor components
 * [Github][7] NPOI - Execel import/export library
 * [Github][10] Fast Blazor - Lightweight set of Blazor component from Microsoft
@@ -41,6 +42,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [7]: https://github.com/nissl-lab/npoi
  [10]: https://github.com/microsoft/fast-blazor
  [11]: https://github.com/microsoft/kiota
+ [12]: https://github.com/CoreWCF/CoreWCF
 
  [8]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
  [9]: http://comparecloud.in/
