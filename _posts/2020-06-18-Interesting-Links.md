@@ -11,8 +11,8 @@ categories: C# ASP.NET SQLSERVER OpenSource
 
 ## PowerShell
 
-* [GitHub][1] dbatools
 * [GitHub][3] ImportExcel
+* [GitHub][14] OpenSSH - Official port of OpenSSH for MS Windows
 
 ## General purpose tools
 
@@ -23,15 +23,16 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [GitHub][5] SoapCore - .NET Core implementation of the WCF
 * [Github][6] Radzen - Radzen Blazor components
 * [Github][7] NPOI - Execel import/export library
-* [Github][10] Fast Blazor - Lightweight set of Blazor component from Microsoft
 * [Github][11] Kiota - OpenAPI based code generator
+* [Github][12] SqlClient - The MS SQL Server .NET CLient
+* [Github][13] Npgsql - PostgreSQL .NET CLient
+
 
 ## no Category
 
 * [Link][8] Energy production statistics of Germany
 * [Link][9] Comparison of global cloud provider
 
- [1]: https://github.com/sqlcollaborative/dbatools
  [3]: https://github.com/dfinke/ImportExcel
 
  [4]: https://github.com/greenshot/greenshot
@@ -39,8 +40,10 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [5]: https://github.com/DigDes/SoapCore
  [6]: https://github.com/radzenhq/radzen-blazor
  [7]: https://github.com/nissl-lab/npoi
- [10]: https://github.com/microsoft/fast-blazor
  [11]: https://github.com/microsoft/kiota
+ [12]: https://github.com/dotnet/SqlClient
+ [13]: https://github.com/npgsql/npgsql
+ [14]: https://github.com/PowerShell/openssh-portable
 
  [8]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
  [9]: http://comparecloud.in/
