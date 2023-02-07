@@ -24,9 +24,11 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Github][6] Radzen - Radzen Blazor components
 * [Github][7] NPOI - Execel import/export library
 * [Github][11] Kiota - OpenAPI based code generator
+* [Github][16] REST API Client Code Generator
 * [Github][12] SqlClient - The MS SQL Server .NET CLient
 * [Github][13] Npgsql - PostgreSQL .NET Client
 * [Github][15] .NET SDK Container Building Tools
+
 
 ## no Category
 
@@ -45,6 +47,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [13]: https://github.com/npgsql/npgsql
  [14]: https://github.com/PowerShell/openssh-portable
  [15]: https://github.com/dotnet/sdk-container-builds
+ [16]: https://github.com/christianhelle/apiclientcodegen
 
  [8]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
  [9]: http://comparecloud.in/
