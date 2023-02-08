@@ -29,7 +29,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Github][13] Npgsql - PostgreSQL .NET Client
 * [Github][15] .NET SDK Container Building Tools
 
-
 ## no Category
 
 * [Link][8] Energy production statistics of Germany
