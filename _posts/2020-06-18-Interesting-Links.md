@@ -28,6 +28,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Github][12] SqlClient - The MS SQL Server .NET CLient
 * [Github][13] Npgsql - PostgreSQL .NET Client
 * [Github][15] .NET SDK Container Building Tools
+* [Github][17] EF Core Power Tools
 
 ## no Category
 
@@ -47,6 +48,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [14]: https://github.com/PowerShell/openssh-portable
  [15]: https://github.com/dotnet/sdk-container-builds
  [16]: https://github.com/christianhelle/apiclientcodegen
+ [17]: https://github.com/ErikEJ/EFCorePowerTools
 
  [8]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
  [9]: http://comparecloud.in/
