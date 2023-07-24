@@ -17,6 +17,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 ## General purpose tools
 
 * [GitHub][4] Greenshot
+* [GitHub][1] Rancher Desktop - Docker Desktop replacement
 
 ## C# / ASP.NET / MVC / Blazor / WCF
 
@@ -36,6 +37,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][8] Energy production statistics of Germany
 * [Link][9] Comparison of global cloud provider
 
+ [1]: https://github.com/rancher-sandbox/rancher-desktop/
  [3]: https://github.com/dfinke/ImportExcel
  [4]: https://github.com/greenshot/greenshot
  [5]: https://github.com/DigDes/SoapCore
