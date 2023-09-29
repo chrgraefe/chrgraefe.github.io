@@ -9,11 +9,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
 
 # This is a collection of interesting links
 
-## PowerShell
-
-* [GitHub][3] ImportExcel
-* [GitHub][14] OpenSSH - Official port of OpenSSH for MS Windows
-
 ## General purpose tools
 
 * [GitHub][4] Greenshot
@@ -29,7 +24,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Github][16] REST API Client Code Generator
 * [Github][12] SqlClient - The MS SQL Server .NET CLient
 * [Github][13] Npgsql - PostgreSQL .NET Client
-* [Github][15] .NET SDK Container Building Tools
 * [Github][17] EF Core Power Tools
 
 ## no Category
@@ -38,7 +32,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][9] Comparison of global cloud provider
 
  [1]: https://github.com/rancher-sandbox/rancher-desktop/
- [3]: https://github.com/dfinke/ImportExcel
  [4]: https://github.com/greenshot/greenshot
  [5]: https://github.com/DigDes/SoapCore
  [6]: https://github.com/radzenhq/radzen-blazor
@@ -47,8 +40,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [11]: https://github.com/microsoft/kiota
  [12]: https://github.com/dotnet/SqlClient
  [13]: https://github.com/npgsql/npgsql
- [14]: https://github.com/PowerShell/openssh-portable
- [15]: https://github.com/dotnet/sdk-container-builds
  [16]: https://github.com/christianhelle/apiclientcodegen
  [17]: https://github.com/ErikEJ/EFCorePowerTools
 
