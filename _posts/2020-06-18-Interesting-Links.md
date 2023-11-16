@@ -30,6 +30,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 
 * [Link][8] Energy production statistics of Germany
 * [Link][9] Comparison of global cloud provider
+* [Link][2] Selbstbau Solar
 
  [1]: https://github.com/rancher-sandbox/rancher-desktop/
  [4]: https://github.com/greenshot/greenshot
@@ -45,3 +46,4 @@ categories: C# ASP.NET SQLSERVER OpenSource
 
  [8]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
  [9]: http://comparecloud.in/
+ [2]: https://selbstbau.solar/initiativen/
