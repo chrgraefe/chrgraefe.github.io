@@ -19,6 +19,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [GitHub][5] SoapCore - .NET Core implementation of the WCF
 * [Github][6] Radzen - Radzen Blazor components
 * [Github][10] MudBlazor - Material Design components for Blazor
+* [Github][19] FluentUi - Blazor Components
 * [Github][7] NPOI - Execel import/export library
 * [Github][11] Kiota - OpenAPI based code generator
 * [Github][16] REST API Client Code Generator
@@ -61,3 +62,4 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [14]: https://www.facebook.com/JugendFeuerwehrAlsheim
  [15]: https://www.facebook.com/FeuerwehrEich/
  [18]: https://www.facebook.com/FeuerwehrWorms/
+ [19]: https://github.com/microsoft/fluentui-blazor
