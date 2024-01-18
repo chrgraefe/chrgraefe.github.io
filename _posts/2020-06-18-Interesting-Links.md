@@ -27,10 +27,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Github][13] Npgsql - PostgreSQL .NET Client
 * [Github][17] EF Core Power Tools
 
-## Solar
-
-* [Link][2] Selbstbau Solar
-
 ## Feuerwehr
 
 * [Link][3] FB Feuerwehr Alsheim
@@ -57,7 +53,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
 
  [8]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
  [9]: http://comparecloud.in/
- [2]: https://selbstbau.solar/initiativen/
  [3]: https://www.facebook.com/FeuerwehrAlsheim/
  [14]: https://www.facebook.com/JugendFeuerwehrAlsheim
  [15]: https://www.facebook.com/FeuerwehrEich/
