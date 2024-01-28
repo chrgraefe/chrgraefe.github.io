@@ -29,7 +29,9 @@ categories: C# ASP.NET SQLSERVER OpenSource
 
 * [Link][3] FB Feuerwehr Alsheim
 * [Link][14] FB Jugendfeuerwehr Alsheim
+* [Link][2] FB Feuerwehr Bechtheim
 * [Link][15] FB Feuerwehr Eich
+* [Link][15] FB Feuerwehr Guntersblumn
 * [Link][18] FB Feuerwehr Worms
 
 ## no Category
@@ -54,4 +56,5 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [14]: https://www.facebook.com/JugendFeuerwehrAlsheim
  [15]: https://www.facebook.com/FeuerwehrEich/
  [18]: https://www.facebook.com/FeuerwehrWorms/
- 
+ [2]: https://www.facebook.com/FeuerwehrBechtheim/
+ [10]: https://www.facebook.com/feuerwehrguntersblum/
