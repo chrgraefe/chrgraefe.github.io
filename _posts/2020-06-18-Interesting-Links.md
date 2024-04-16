@@ -32,12 +32,14 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][14] FB Jugendfeuerwehr Alsheim
 * [Link][2] FB Feuerwehr Bechtheim
 * [Link][15] FB Feuerwehr Eich
-* [Link][10] FB Feuerwehr Guntersblumn
+* [Link][10] FB Feuerwehr Guntersblum
+* [Link][22] FB Feuerwehr Mettenheim
 * [Link][19] FB Feuerwehr Storkow (Mark)
 * [Link][18] FB Feuerwehr Worms
 
-## Sonstoge Facebook
+## Sonstige Facebook
 
+* [Link][21] FB Freibad Gimbsheim
 * [Link][21] FB Ortsgemeinde Alsheim
 
 ## no Category
@@ -68,4 +70,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [19]: https://www.facebook.com/FeuerwehrStorkow.Mark/
 
  [21]: https://www.facebook.com/profile.php?id=100076270448938
+ [22]: https://www.facebook.com/feuerwehrmettenheim/
+ [23]: https://www.facebook.com/FreibadGimbsheim
  
