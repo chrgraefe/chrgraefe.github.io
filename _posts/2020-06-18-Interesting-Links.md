@@ -44,6 +44,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 
 ## no Category
 
+* [Link][24] Job portal of Roehm chemicals
 * [Link][8] Energy production statistics of Germany
 * [Link][9] Comparison of global cloud provider
 
@@ -72,3 +73,5 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [21]: https://www.facebook.com/profile.php?id=100076270448938
  [22]: https://www.facebook.com/feuerwehrmettenheim/
  [23]: https://www.facebook.com/FreibadGimbsheim
+
+ [24]: https://jobs.roehm.com/go/Jobs_DE/9003402/?q=&q2=&alertId=&locationsearch=&title=&location=Worms%2C+DE&facility=&date=
