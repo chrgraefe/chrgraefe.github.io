@@ -47,6 +47,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][24] Job portal of Roehm chemicals
 * [Link][25] Job portal of Infraserv chemicals
 * [Link][26] Job portal of VSU Brandschutz
+* [Link][27] Job portal of US Army in Europe
 * [Link][8] Energy production statistics of Germany
 * [Link][9] Comparison of global cloud provider
 
@@ -79,3 +80,4 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [24]: https://jobs.roehm.com/go/Jobs_DE/9003402/?q=&q2=&alertId=&locationsearch=&title=&location=Worms%2C+DE&facility=&date=
  [25]: https://www.infraserv.com/de/karriere/ihr-einstieg/berufserfahrene/quereinstieg-werkfeuerwehrmann/
  [26]: https://www.vsu-brandschutz-gmbh.de/karriere/jobs.html?tx_jobfair_pi1%5Baction%5D=list&tx_jobfair_pi1%5Bcontroller%5D=Job&cHash=3a750dacb9fa5e80a20c8adedef41d84
+ [27]: https://portal.chra.army.mil/mnrs?id=m2_list
