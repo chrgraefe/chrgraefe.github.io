@@ -19,9 +19,9 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [GitHub][5] SoapCore - .NET Core implementation of the WCF
 * [Github][6] Radzen - Radzen Blazor components
 * [Github][20] Fluent UI - Fluent Blazor components
+* [Github][16] Mud Blazor - UI components
 * [Github][7] NPOI - Execel import/export library
 * [Github][11] Kiota - OpenAPI based code generator
-* [Github][16] REST API Client Code Generator
 * [Github][12] SqlClient - The MS SQL Server .NET CLient
 * [Github][13] Npgsql - PostgreSQL .NET Client
 * [Github][17] EF Core Power Tools
@@ -60,7 +60,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [11]: https://github.com/microsoft/kiota
  [12]: https://github.com/dotnet/SqlClient
  [13]: https://github.com/npgsql/npgsql
- [16]: https://github.com/christianhelle/apiclientcodegen
+ [16]: https://github.com/MudBlazor/MudBlazor/
  [17]: https://github.com/ErikEJ/EFCorePowerTools
  [20]: https://github.com/microsoft/fluentui-blazor
 
