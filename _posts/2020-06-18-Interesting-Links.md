@@ -82,4 +82,4 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [25]: https://www.infraserv.com/de/karriere/ihr-einstieg/berufserfahrene/quereinstieg-werkfeuerwehrmann/
  [26]: https://www.vsu-brandschutz-gmbh.de/karriere/jobs.html?tx_jobfair_pi1%5Baction%5D=list&tx_jobfair_pi1%5Bcontroller%5D=Job&cHash=3a750dacb9fa5e80a20c8adedef41d84
  [27]: https://portal.chra.army.mil/mnrs?id=m2_list
- [28]: https://bks-portal.rlp.de/node/15569
+ [28]: https://bks-portal.rlp.de/node/94022
