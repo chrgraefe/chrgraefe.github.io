@@ -25,6 +25,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Github][12] SqlClient - The MS SQL Server .NET CLient
 * [Github][13] Npgsql - PostgreSQL .NET Client
 * [Github][17] EF Core Power Tools
+* [Github][29] Data API Builder
 
 ## Feuerwehr
 
@@ -63,6 +64,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [16]: https://github.com/MudBlazor/MudBlazor/
  [17]: https://github.com/ErikEJ/EFCorePowerTools
  [20]: https://github.com/microsoft/fluentui-blazor
+ [29]: https://github.com/Azure/data-api-builder
 
  [8]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
  [9]: http://comparecloud.in/
