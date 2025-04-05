@@ -50,6 +50,15 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][26] Job portal of VSU Brandschutz
 * [Link][27] Job portal of US Army in Europe
 * [Link][28] Job portal of BKS
+* [Link][30] Job portal of Bunge (Mannheim)
+* [Link][31] Job portal of Daimler Truck (Mannheim)
+* [Link][32] Job portal of Essity (Mannheim)
+* [Link][33] Job portal of GKM (Mannheim)
+* [Link][34] Job portal of Freudenberg (Weinheim)
+* [Link][35] Job portal of John Deere (Mannheim)
+* [Link][36] Job portal of Roche (Mannheim)
+* [Link][37] Job portal of Böhringer (Ingelheim)
+* [Link][38] Job portal of RWE-Power (Biblis)
 * [Link][8] Energy production statistics of Germany
 * [Link][9] Comparison of global cloud provider
 
@@ -81,7 +90,16 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [23]: https://www.facebook.com/FreibadGimbsheim
 
  [24]: https://jobs.roehm.com/go/Jobs_DE/9003402/?q=&q2=&alertId=&locationsearch=&title=&location=Worms%2C+DE&facility=&date=
- [25]: https://www.infraserv.com/de/karriere/ihr-einstieg/berufserfahrene/quereinstieg-werkfeuerwehrmann/
+ [25]: https://karriere.infraserv.com/stelle/stellenliste.aspx
  [26]: https://www.vsu-brandschutz-gmbh.de/karriere/jobs.html?tx_jobfair_pi1%5Baction%5D=list&tx_jobfair_pi1%5Bcontroller%5D=Job&cHash=3a750dacb9fa5e80a20c8adedef41d84
  [27]: https://portal.chra.army.mil/mnrs?id=m2_list
  [28]: https://bks-portal.rlp.de/node/94022
+ [30]: https://jobs.bunge.com/search/?createNewAlert=false&q=&locationsearch=Mannheim&optionsFacetsDD_country=
+ [31]: https://jobsearch.daimlertruck.com/index.php?ac=search_result&search_criterion_channel%5B%5D=12&search_criterion_entry_level_external%5B%5D=2&search_criterion_cityname%5B%5D=933&search_criterion_channel%5B%5D=12&search_criterion_channel%5B%5D=12
+ [32]: https://www.essity.de/karriere/stellenangebote/?country=DEU&location=bb94cb3c72111001942a037594ed0000
+ [33]: https://www.gkm.de/karriere/
+ [34]: https://jobs.freudenberg.com/freudenberg/?search=fire
+ [35]: https://careers.deere.com/careers?location=MA%2C%20BW%2C%20Germany&seniority=Entry&seniority=Mid%2FSenior&pid=137466414820&domain=johndeere.com&sort_by=relevance&triggerGoButton=false
+ [36]: https://careers.roche.com/global/en/search-results?keywords=Mannheim
+ [37]: https://www.boehringer-ingelheim.com/de/karriere/jobs-finden/jobs-suchen-und-bewerben?currentPage=1&pageSize=25&careerLevel=Erfahrene+Fachkr%C3%A4fte&careerLevel=Berufseinsteiger+und+Absolventen&jobSchedule=Vollzeit&addresses%2FcountryCity=Deutschland%7CIngelheim&addresses%2Fcountry=Deutschland
+ [38]: https://www.rwe.com/karriere-bei-rwe/job-angebote-finden/?ci=Biblis&fa=P-4
