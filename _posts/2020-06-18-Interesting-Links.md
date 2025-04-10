@@ -53,6 +53,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][33] Job portal of GKM (Mannheim)
 * [Link][37] Job portal of Böhringer (Ingelheim)
 * [Link][38] Job portal of RWE-Power (Biblis)
+* [Link][39] Job portal of Feuerwehr.de
 * [Link][8] Energy production statistics of Germany
 * [Link][9] Comparison of global cloud provider
 
@@ -91,3 +92,4 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [33]: https://www.gkm.de/karriere/
  [37]: https://www.boehringer-ingelheim.com/de/karriere/jobs-finden/jobs-suchen-und-bewerben?currentPage=1&pageSize=25&careerLevel=Erfahrene+Fachkr%C3%A4fte&careerLevel=Berufseinsteiger+und+Absolventen&jobSchedule=Vollzeit&addresses%2FcountryCity=Deutschland%7CIngelheim&addresses%2Fcountry=Deutschland
  [38]: https://www.rwe.com/karriere-bei-rwe/job-angebote-finden/?ci=Biblis&fa=P-4
+ [39]: http://www.feuerwehr.de/jobs/
