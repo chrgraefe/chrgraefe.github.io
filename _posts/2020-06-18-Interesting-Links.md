@@ -54,6 +54,13 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][37] Job portal of Böhringer (Ingelheim)
 * [Link][38] Job portal of RWE-Power (Biblis)
 * [Link][39] Job portal of Feuerwehr.de
+* [Link][40] Job portal of worms.de
+* [Link][41] Job portal of BF-Mainz
+* [Link][42] Job portal of BF-Ludwigshafen
+* [Link][43] Job portal of BF-Heidelberg
+* [Link][44] Job portal of BF-Darmstadt
+* [Link][45] Job portal of BF-Frankfurt
+* [Link][46] Job portal of BF-Wiesbaden
 * [Link][8] Energy production statistics of Germany
 * [Link][9] Comparison of global cloud provider
 
@@ -93,3 +100,10 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [37]: https://www.boehringer-ingelheim.com/de/karriere/jobs-finden/jobs-suchen-und-bewerben?currentPage=1&pageSize=25&careerLevel=Erfahrene+Fachkr%C3%A4fte&careerLevel=Berufseinsteiger+und+Absolventen&jobSchedule=Vollzeit&addresses%2FcountryCity=Deutschland%7CIngelheim&addresses%2Fcountry=Deutschland
  [38]: https://www.rwe.com/karriere-bei-rwe/job-angebote-finden/?ci=Biblis&fa=P-4
  [39]: http://www.feuerwehr.de/jobs/
+ [40]: https://bewerbung.worms.de/stellenangebote.html
+ [41]: http://www.berufsfeuerwehr-mainz.de/job.htm
+ [42]: https://karriere.ludwigshafen.de/index?filter_id=
+ [43]: https://www.heidelberg.de/Feuerwehr,Lde/feuerwehr/Berufsfeuerwehr/Stellenangebote_Informationen.html
+ [44]: https://www.feuerwehr-darmstadt.de/mitarbeit/job-karriere/stellenausschreibungen
+ [45]: https://www.feuerwehr-frankfurt.de/job-karriere/stellenausschreibungen
+ [46]: https://karriere.wiesbaden.de/?reset_search=0&search_mode=job_filter_advanced&filter%5Bvolltext%5D=&filter%5Bjob_field_450%5D%5B%5D=531
