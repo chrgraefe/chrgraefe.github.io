@@ -11,17 +11,14 @@ categories: C# ASP.NET SQLSERVER OpenSource
 
 ## General purpose tools
 
-* [GitHub][4] Greenshot
 * [GitHub][1] Rancher Desktop - Docker Desktop replacement
 
 ## C# / ASP.NET / MVC / Blazor / WCF
 
 * [GitHub][5] SoapCore - .NET Core implementation of the WCF
 * [Github][6] Radzen - Radzen Blazor components
-* [Github][20] Fluent UI - Fluent Blazor components
 * [Github][16] Mud Blazor - UI components
 * [Github][7] NPOI - Execel import/export library
-* [Github][11] Kiota - OpenAPI based code generator
 * [Github][12] SqlClient - The MS SQL Server .NET CLient
 * [Github][13] Npgsql - PostgreSQL .NET Client
 * [Github][17] EF Core Power Tools
@@ -57,25 +54,19 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][40] Job portal of worms.de
 * [Link][41] Job portal of BF-Mainz
 * [Link][42] Job portal of BF-Ludwigshafen
-* [Link][43] Job portal of BF-Heidelberg
-* [Link][44] Job portal of BF-Darmstadt
-* [Link][45] Job portal of BF-Frankfurt
 * [Link][46] Job portal of BF-Wiesbaden
 * [Link][8] Energy production statistics of Germany
 * [Link][9] Comparison of global cloud provider
 
  [1]: https://github.com/rancher-sandbox/rancher-desktop/
- [4]: https://github.com/greenshot/greenshot
- [5]: https://github.com/DigDes/SoapCore
+  [5]: https://github.com/DigDes/SoapCore
  [6]: https://github.com/radzenhq/radzen-blazor
  [7]: https://github.com/nissl-lab/npoi
- [11]: https://github.com/microsoft/kiota
- [12]: https://github.com/dotnet/SqlClient
+  [12]: https://github.com/dotnet/SqlClient
  [13]: https://github.com/npgsql/npgsql
  [16]: https://github.com/MudBlazor/MudBlazor/
  [17]: https://github.com/ErikEJ/EFCorePowerTools
- [20]: https://github.com/microsoft/fluentui-blazor
- [29]: https://github.com/Azure/data-api-builder
+  [29]: https://github.com/Azure/data-api-builder
 
  [8]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
  [9]: http://comparecloud.in/
@@ -102,8 +93,4 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [39]: http://www.feuerwehr.de/jobs/
  [40]: https://bewerbung.worms.de/stellenangebote.html
  [41]: http://www.berufsfeuerwehr-mainz.de/job.htm
- [42]: https://karriere.ludwigshafen.de/index?filter_id=
- [43]: https://www.heidelberg.de/Feuerwehr,Lde/feuerwehr/Berufsfeuerwehr/Stellenangebote_Informationen.html
- [44]: https://www.feuerwehr-darmstadt.de/mitarbeit/job-karriere/stellenausschreibungen
- [45]: https://www.feuerwehr-frankfurt.de/job-karriere/stellenausschreibungen
  [46]: https://karriere.wiesbaden.de/?reset_search=0&search_mode=job_filter_advanced&filter%5Bvolltext%5D=&filter%5Bjob_field_450%5D%5B%5D=531
