@@ -47,26 +47,26 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][26] Job portal of VSU Brandschutz
 * [Link][27] Job portal of US Army in Europe
 * [Link][28] Job portal of BKS
-* [Link][33] Job portal of GKM (Mannheim)
 * [Link][37] Job portal of Böhringer (Ingelheim)
 * [Link][38] Job portal of RWE-Power (Biblis)
 * [Link][39] Job portal of Feuerwehr.de
 * [Link][40] Job portal of worms.de
 * [Link][41] Job portal of BF-Mainz
 * [Link][42] Job portal of BF-Ludwigshafen
+* [Link][43] Job portal of WF-BASF
 * [Link][46] Job portal of BF-Wiesbaden
 * [Link][8] Energy production statistics of Germany
 * [Link][9] Comparison of global cloud provider
 
  [1]: https://github.com/rancher-sandbox/rancher-desktop/
-  [5]: https://github.com/DigDes/SoapCore
+ [5]: https://github.com/DigDes/SoapCore
  [6]: https://github.com/radzenhq/radzen-blazor
  [7]: https://github.com/nissl-lab/npoi
-  [12]: https://github.com/dotnet/SqlClient
+ [12]: https://github.com/dotnet/SqlClient
  [13]: https://github.com/npgsql/npgsql
  [16]: https://github.com/MudBlazor/MudBlazor/
  [17]: https://github.com/ErikEJ/EFCorePowerTools
-  [29]: https://github.com/Azure/data-api-builder
+ [29]: https://github.com/Azure/data-api-builder
 
  [8]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
  [9]: http://comparecloud.in/
@@ -87,10 +87,11 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [26]: https://www.vsu-brandschutz-gmbh.de/karriere/jobs.html?tx_jobfair_pi1%5Baction%5D=list&tx_jobfair_pi1%5Bcontroller%5D=Job&cHash=3a750dacb9fa5e80a20c8adedef41d84
  [27]: https://portal.chra.army.mil/mnrs?id=m2_list
  [28]: https://bks-portal.rlp.de/node/94022
- [33]: https://www.gkm.de/karriere/
  [37]: https://www.boehringer-ingelheim.com/de/karriere/jobs-finden/jobs-suchen-und-bewerben?currentPage=1&pageSize=25&careerLevel=Erfahrene+Fachkr%C3%A4fte&careerLevel=Berufseinsteiger+und+Absolventen&jobSchedule=Vollzeit&addresses%2FcountryCity=Deutschland%7CIngelheim&addresses%2Fcountry=Deutschland
  [38]: https://www.rwe.com/karriere-bei-rwe/job-angebote-finden/?ci=Biblis&fa=P-4
  [39]: http://www.feuerwehr.de/jobs/
  [40]: https://bewerbung.worms.de/stellenangebote.html
  [41]: http://www.berufsfeuerwehr-mainz.de/job.htm
+ [42]: https://karriere.ludwigshafen.de/index?scopes%5Bvacancy.type%5D%5B%5D=Vacancies%3A%3AStandard&scopes%5Bpublications.text_search%5D%5B%5D=Brand&button=submit
+ [43]: https://basf.jobs/?locale=de_DE&utm_source=careersite&utm_medium=global_de&utm_campaign=ajc&currentPage=1&pageSize=10&category=Umwelt%2C+Gesundheit+%26+Sicherheit&addresses%2FcountryCity=Deutschland%7CHessen%7CLampertheim&addresses%2FcountryCity=Deutschland%7CRheinland-Pfalz%7CLudwigshafen+am+Rhein
  [46]: https://karriere.wiesbaden.de/?reset_search=0&search_mode=job_filter_advanced&filter%5Bvolltext%5D=&filter%5Bjob_field_450%5D%5B%5D=531
