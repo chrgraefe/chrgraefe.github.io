@@ -47,7 +47,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][38] Job portal of RWE-Power (Biblis)
 * [Link][39] Job portal of Feuerwehr.de
 * [Link][40] Job portal of worms.de
-* [Link][43] Job portal of WF-BASF
 * [Link][8] Energy production statistics of Germany
 * [Link][9] Comparison of global cloud provider
 
@@ -80,4 +79,4 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [38]: https://www.rwe.com/karriere-bei-rwe/job-angebote-finden/?ci=Biblis&fa=P-4
  [39]: http://www.feuerwehr.de/jobs/
  [40]: https://bewerbung.worms.de/stellenangebote.html
- [43]: https://basf.jobs/?locale=de_DE&utm_source=careersite&utm_medium=global_de&utm_campaign=ajc&currentPage=1&pageSize=10&category=Umwelt%2C+Gesundheit+%26+Sicherheit&addresses%2FcountryCity=Deutschland%7CHessen%7CLampertheim&addresses%2FcountryCity=Deutschland%7CRheinland-Pfalz%7CLudwigshafen+am+Rhein
+ 
