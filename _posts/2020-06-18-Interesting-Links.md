@@ -15,13 +15,10 @@ categories: C# ASP.NET SQLSERVER OpenSource
 
 ## C# / ASP.NET / MVC / Blazor / WCF
 
-* [GitHub][5] SoapCore - .NET Core implementation of the WCF
-* [Github][6] Radzen - Radzen Blazor components
 * [Github][16] Mud Blazor - UI components
 * [Github][7] NPOI - Execel import/export library
 * [Github][12] SqlClient - The MS SQL Server .NET CLient
 * [Github][13] Npgsql - PostgreSQL .NET Client
-* [Github][17] EF Core Power Tools
 * [Github][29] Data API Builder
 
 ## Feuerwehr
@@ -43,7 +40,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
 ## no Category
 
 * [Link][24] Job portal of Roehm chemicals
-* [Link][25] Job portal of Infraserv chemicals
 * [Link][26] Job portal of VSU Brandschutz
 * [Link][27] Job portal of US Army in Europe
 * [Link][28] Job portal of BKS
@@ -51,21 +47,16 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][38] Job portal of RWE-Power (Biblis)
 * [Link][39] Job portal of Feuerwehr.de
 * [Link][40] Job portal of worms.de
-* [Link][41] Job portal of BF-Mainz
-* [Link][42] Job portal of BF-Ludwigshafen
 * [Link][43] Job portal of WF-BASF
 * [Link][46] Job portal of BF-Wiesbaden
 * [Link][8] Energy production statistics of Germany
 * [Link][9] Comparison of global cloud provider
 
  [1]: https://github.com/rancher-sandbox/rancher-desktop/
- [5]: https://github.com/DigDes/SoapCore
- [6]: https://github.com/radzenhq/radzen-blazor
  [7]: https://github.com/nissl-lab/npoi
  [12]: https://github.com/dotnet/SqlClient
  [13]: https://github.com/npgsql/npgsql
  [16]: https://github.com/MudBlazor/MudBlazor/
- [17]: https://github.com/ErikEJ/EFCorePowerTools
  [29]: https://github.com/Azure/data-api-builder
 
  [8]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
@@ -83,7 +74,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [23]: https://www.facebook.com/FreibadGimbsheim
 
  [24]: https://jobs.roehm.com/go/Jobs_DE/9003402/?q=&q2=&alertId=&locationsearch=&title=&location=Worms%2C+DE&facility=&date=
- [25]: https://www.infraserv.com/de/karriere/jobs/?profile=Werkfeuerwehr
  [26]: https://www.vsu-brandschutz-gmbh.de/karriere/jobs.html?tx_jobfair_pi1%5Baction%5D=list&tx_jobfair_pi1%5Bcontroller%5D=Job&cHash=3a750dacb9fa5e80a20c8adedef41d84
  [27]: https://portal.chra.army.mil/mnrs?id=m2_list
  [28]: https://bks-portal.rlp.de/node/94022
@@ -91,7 +81,5 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [38]: https://www.rwe.com/karriere-bei-rwe/job-angebote-finden/?ci=Biblis&fa=P-4
  [39]: http://www.feuerwehr.de/jobs/
  [40]: https://bewerbung.worms.de/stellenangebote.html
- [41]: http://www.berufsfeuerwehr-mainz.de/job.htm
- [42]: https://karriere.ludwigshafen.de/index?scopes%5Bvacancy.type%5D%5B%5D=Vacancies%3A%3AStandard&scopes%5Bpublications.text_search%5D%5B%5D=Brand&button=submit
  [43]: https://basf.jobs/?locale=de_DE&utm_source=careersite&utm_medium=global_de&utm_campaign=ajc&currentPage=1&pageSize=10&category=Umwelt%2C+Gesundheit+%26+Sicherheit&addresses%2FcountryCity=Deutschland%7CHessen%7CLampertheim&addresses%2FcountryCity=Deutschland%7CRheinland-Pfalz%7CLudwigshafen+am+Rhein
  [46]: https://karriere.wiesbaden.de/?reset_search=0&search_mode=job_filter_advanced&filter%5Bvolltext%5D=&filter%5Bjob_field_450%5D%5B%5D=531
