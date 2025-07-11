@@ -43,7 +43,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][26] Job portal of VSU Brandschutz
 * [Link][27] Job portal of US Army in Europe
 * [Link][28] Job portal of BKS
-* [Link][37] Job portal of Böhringer (Ingelheim)
 * [Link][38] Job portal of RWE-Power (Biblis)
 * [Link][39] Job portal of Feuerwehr.de
 * [Link][40] Job portal of worms.de
@@ -75,7 +74,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [26]: https://www.vsu-brandschutz-gmbh.de/karriere/jobs.html?tx_jobfair_pi1%5Baction%5D=list&tx_jobfair_pi1%5Bcontroller%5D=Job&cHash=3a750dacb9fa5e80a20c8adedef41d84
  [27]: https://portal.chra.army.mil/mnrs?id=m2_list
  [28]: https://bks-portal.rlp.de/node/94022
- [37]: https://www.boehringer-ingelheim.com/de/karriere/jobs-finden/jobs-suchen-und-bewerben?currentPage=1&pageSize=25&careerLevel=Erfahrene+Fachkr%C3%A4fte&careerLevel=Berufseinsteiger+und+Absolventen&jobSchedule=Vollzeit&addresses%2FcountryCity=Deutschland%7CIngelheim&addresses%2Fcountry=Deutschland
  [38]: https://www.rwe.com/karriere-bei-rwe/job-angebote-finden/?ci=Biblis&fa=P-4
  [39]: http://www.feuerwehr.de/jobs/
  [40]: https://bewerbung.worms.de/stellenangebote.html
