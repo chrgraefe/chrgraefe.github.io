@@ -12,6 +12,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 ## General purpose tools
 
 * [GitHub][1] Rancher Desktop - Docker Desktop replacement
+* [GitHub][4] Home Assistant OS - Home Assistant Operating System
 
 ## C# / ASP.NET / MVC / Blazor / WCF
 
@@ -50,6 +51,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][9] Comparison of global cloud provider
 
  [1]: https://github.com/rancher-sandbox/rancher-desktop/
+ [4]: https://github.com/home-assistant/operating-system
  [7]: https://github.com/nissl-lab/npoi
  [12]: https://github.com/dotnet/SqlClient
  [13]: https://github.com/npgsql/npgsql
