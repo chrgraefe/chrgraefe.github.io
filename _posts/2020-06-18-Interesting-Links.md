@@ -11,8 +11,8 @@ categories: C# ASP.NET SQLSERVER OpenSource
 
 ## General purpose tools
 
-* [GitHub][01] Rancher Desktop - Docker Desktop replacement
-* [GitHub][02] Home Assistant OS - Home Assistant Operating System
+* [GitHub][1] Rancher Desktop - Docker Desktop replacement
+* [GitHub][2] Home Assistant OS - Home Assistant Operating System
 
 ## C# / ASP.NET / MVC / Blazor / WCF
 
@@ -42,16 +42,15 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][53] Energy production statistics of Germany
 * [Link][54] Comparison of global cloud provider
 
-<!-- General purpose tools -->
- [01]: https://github.com/rancher-sandbox/rancher-desktop/
- [02]: https://github.com/home-assistant/operating-system
- [03]: https://example.com
- [04]: https://example.com
- [05]: https://example.com
- [06]: https://example.com
- [07]: https://example.com
- [08]: https://example.com
- [09]: https://example.com
+ [1]: https://github.com/rancher-sandbox/rancher-desktop/
+ [2]: https://github.com/home-assistant/operating-system
+ [3]: https://example.com
+ [4]: https://example.com
+ [5]: https://example.com
+ [6]: https://example.com
+ [7]: https://example.com
+ [8]: https://example.com
+ [9]: https://example.com
  
  [10]: https://github.com/MudBlazor/MudBlazor/
  [11]: https://github.com/nissl-lab/npoi
