@@ -45,6 +45,13 @@ categories: C# ASP.NET SQLSERVER OpenSource
 <!-- General purpose tools -->
  [01]: https://github.com/rancher-sandbox/rancher-desktop/
  [02]: https://github.com/home-assistant/operating-system
+ [03]: https://example.com
+ [04]: https://example.com
+ [05]: https://example.com
+ [06]: https://example.com
+ [07]: https://example.com
+ [08]: https://example.com
+ [09]: https://example.com
  
  <!-- C# / ASP.NET / MVC / Blazor / WCF -->
  [10]: https://github.com/MudBlazor/MudBlazor/
@@ -52,7 +59,22 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [12]: https://github.com/dotnet/SqlClient
  [13]: https://github.com/npgsql/npgsql
  [14]: https://github.com/Azure/data-api-builder
-
+ [15]: https://example.com
+ [16]: https://example.com
+ [17]: https://example.com
+ [18]: https://example.com
+ [19]: https://example.com
+ [20]: https://example.com
+ [21]: https://example.com
+ [22]: https://example.com
+ [23]: https://example.com
+ [24]: https://example.com
+ [25]: https://example.com
+ [26]: https://example.com
+ [27]: https://example.com
+ [28]: https://example.com
+ [29]: https://example.com
+ 
  <!-- Facebook Feuerwehr/Schwimmbad/VG-Eich -->
  [30]: https://www.facebook.com/FeuerwehrAlsheim/
  [31]: https://www.facebook.com/JugendFeuerwehrAlsheim 
@@ -63,6 +85,17 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [36]: https://www.facebook.com/FeuerwehrWorms/
  [37]: https://www.facebook.com/FreibadGimbsheim
  [38]: https://www.facebook.com/profile.php?id=100076270448938
+ [39]: https://example.com
+ [40]: https://example.com
+ [41]: https://example.com
+ [42]: https://example.com
+ [43]: https://example.com
+ [44]: https://example.com
+ [45]: https://example.com
+ [46]: https://example.com
+ [47]: https://example.com
+ [48]: https://example.com
+ [49]: https://example.com
 
  <!-- links to "no category" -->
  [50]: https://halasemia.de/h2otemp/temperatur.jpg
