@@ -53,7 +53,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [08]: https://example.com
  [09]: https://example.com
  
- <!-- C# / ASP.NET / MVC / Blazor / WCF -->
  [10]: https://github.com/MudBlazor/MudBlazor/
  [11]: https://github.com/nissl-lab/npoi
  [12]: https://github.com/dotnet/SqlClient
@@ -75,7 +74,6 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [28]: https://example.com
  [29]: https://example.com
  
- <!-- Facebook Feuerwehr/Schwimmbad/VG-Eich -->
  [30]: https://www.facebook.com/FeuerwehrAlsheim/
  [31]: https://www.facebook.com/JugendFeuerwehrAlsheim 
  [32]: https://www.facebook.com/FeuerwehrEich/
@@ -97,11 +95,9 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [48]: https://example.com
  [49]: https://example.com
 
- <!-- links to "no category" -->
  [50]: https://halasemia.de/h2otemp/temperatur.jpg
  [51]: https://jobs.roehm.com/go/Jobs_DE/9003402/?q=&q2=&alertId=&locationsearch=&title=&location=Worms%2C+DE&facility=&date=
  [52]: https://bks-portal.rlp.de/node/94022
  [53]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
  [54]: http://comparecloud.in/
- 
  
