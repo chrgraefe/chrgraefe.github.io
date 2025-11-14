@@ -97,7 +97,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 
  [50]: https://halasemia.de/h2otemp/temperatur.jpg
  [51]: https://jobs.roehm.com/go/Jobs_DE/9003402/?q=&q2=&alertId=&locationsearch=&title=&location=Worms%2C+DE&facility=&date=
- [52]: https://bks-portal.rlp.de/node/94022
+ [52]: https://bks-portal.rlp.de/startseite/organisationen/landesbehoerden/lfbk/stellenboerse
  [53]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
  [54]: http://comparecloud.in/
  [55]: https://portal.chra.army.mil/mnrs?id=m2_list
