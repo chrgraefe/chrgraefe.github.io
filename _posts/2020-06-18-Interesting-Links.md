@@ -40,6 +40,7 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][51] Job portal of Roehm chemicals
 * [Link][52] Job portal of BKS
 * [Link][55] Job portal of US Army Military in Europe
+* [Link][56] Feuerwehrjobbörse
 * [Link][53] Energy production statistics of Germany
 * [Link][54] Comparison of global cloud provider
 
@@ -101,4 +102,5 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [53]: https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=day
  [54]: http://comparecloud.in/
  [55]: https://portal.chra.army.mil/mnrs?id=m2_list
+ [56]: http://feuerwehr.de/jobs/
  
