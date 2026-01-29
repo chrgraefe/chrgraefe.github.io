@@ -1,6 +1,6 @@
 ---
 layout: post
-ID: 32
+ID: 33
 title: install nextcloud on android
 author: Christian Gräfe
 date: 2026-01-29 20:04:55
