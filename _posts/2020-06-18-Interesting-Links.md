@@ -11,17 +11,12 @@ categories: C# ASP.NET SQLSERVER OpenSource
 
 ## General purpose tools
 
-* [GitHub][1] Rancher Desktop - Docker Desktop replacement
 * [GitHub][2] Home Assistant OS - Home Assistant Operating System
 
 ## C# / ASP.NET / MVC / Blazor / WCF
 
 * [Github][10] Mud Blazor - UI components
-* [Github][11] NPOI - Execel import/export library
 * [Github][12] SqlClient - The MS SQL Server .NET CLient
-* [Github][13] Npgsql - PostgreSQL .NET Client
-* [Github][14] Data API Builder
-* [Github][15] dotnet-docker - Docker images for .NET
 
 ## Facebook Feuerwehr/Schwimmbad/VG-Eich
 
@@ -40,12 +35,11 @@ categories: C# ASP.NET SQLSERVER OpenSource
 * [Link][50] Wassertemperatur Schwimmbad Gimbsheim
 * [Link][51] Job portal of Roehm chemicals
 * [Link][52] Job portal of BKS
-* [Link][55] Job portal of US Army Military in Europe
-* [Link][56] Feuerwehrjobbörse
 * [Link][53] Energy production statistics of Germany
 * [Link][54] Comparison of global cloud provider
+* [Link][57] Gas storage fill level in Germany
 
- [1]: https://github.com/rancher-sandbox/rancher-desktop/
+ [1]: https://example.com
  [2]: https://github.com/home-assistant/operating-system
  [3]: https://example.com
  [4]: https://example.com
@@ -56,11 +50,11 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [9]: https://example.com
  
  [10]: https://github.com/MudBlazor/MudBlazor/
- [11]: https://github.com/nissl-lab/npoi
+ [11]: https://example.com
  [12]: https://github.com/dotnet/SqlClient
- [13]: https://github.com/npgsql/npgsql
- [14]: https://github.com/Azure/data-api-builder
- [15]: https://github.com/dotnet/dotnet-docker/
+ [13]: https://example.com
+ [14]: https://example.com
+ [15]: https://example.com
  [16]: https://example.com
  [17]: https://example.com
  [18]: https://example.com
@@ -104,4 +98,5 @@ categories: C# ASP.NET SQLSERVER OpenSource
  [54]: http://comparecloud.in/
  [55]: https://portal.chra.army.mil/mnrs?id=m2_list
  [56]: http://feuerwehr.de/jobs/
+ [57]: https://www.bundesnetzagentur.de/DE/Gasversorgung/aktuelle_gasversorgung/_svg/Gasspeicherfuellstand_Veraenderung_taeglich/Gasspeicherfuellstand_Veraenderung_taeglich.html
  
